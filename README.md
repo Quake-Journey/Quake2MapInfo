@@ -1,2 +1,2 @@
 # Quake2MapInfo
-Simle Node.JS site for parsing resources used in Quake II (game) BSP maps
+Simple Node.JS site for parsing resources used in Quake II (game) BSP maps
